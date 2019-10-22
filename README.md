@@ -1,3 +1,1 @@
 # Few_hacktoberfest
-
--First
